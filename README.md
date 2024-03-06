@@ -2,7 +2,7 @@
 
 - Java, SpringBoot, SpringDataJPA를 이용해 RestAPI를 개발합니다.
 - ERD를 설계하고, MySQL, MariaDB를 사용할 수 있습니다.
-- Thymeleaf, JavaScript, HTML/CSS, React로 프론트엔드 개발도 가능합니다.
+- Thymeleaf, JavaScript, HTML/CSS, React로 프론트엔드 개발이 가능합니다.
 
 ---
 
